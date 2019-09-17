@@ -5,7 +5,7 @@ using UnityEngine;
 public class TestRoll : MonoBehaviour
 {
 	public float rotateSpeed = 15;
-	public float accRotate = -.05f;
+	private float accRotate = -.05f;
 	private float angleSpeed = 0;
 	private Vector2 hitPoint2d;
 	private Vector3 hitPoint3d;
@@ -31,6 +31,7 @@ public class TestRoll : MonoBehaviour
 		else
 		{
 			angleSpeed += accRotate;
+			accRotate -= .001f;
 		}
 		Debug.LogError("angleSpeed : " + angleSpeed);
 		transform.localRotation = Quaternion.AngleAxis(-angleSpeed, axis) * transform.localRotation;
