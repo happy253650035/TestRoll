@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 0879f44ca292a23459d220fdddccf1d0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BallStorageRack
+    100002: BlockOff
+    100004: BlockOff 1
+    100006: BlockOff 2
+    100008: BlockOff 3
+    100010: BlockOff 4
+    100012: BlockOff 5
+    100014: Colliders
+    100016: Corner1
+    100018: Corner2
+    100020: Corner3
+    100022: Corner_centerbottom
+    100024: Corner_centertop
+    100026: Corner_leftbottom
+    100028: Corner_lefttop
+    100030: Corner_rightbottom
+    100032: Corner_righttop
+    100034: Death_standby
+    100036: Death_standby 1
+    100038: Death_standby 2
+    100040: Death_standby 3
+    100042: Death_standby 4
+    100044: Death_standby 5
+    100046: Destination
+    100048: Floor
+    100050: Floor 1
+    100052: Floor 2
+    100054: hl
+    100056: hl 1
+    100058: hl 2
+    100060: hl 3
+    100062: hl 4
+    100064: hl 5
+    100066: HoleBG
+    100068: holebg1
+    100070: holebg2
+    100072: holebg3
+    100074: holebg4
+    100076: holebg5
+    100078: holebg6
+    100080: InitPoint
+    100082: LeftDownRail
+    100084: LeftRail
+    100086: LeftUpRail
+    100088: LeftWoodDown
+    100090: LeftWoodRail
+    100092: LeftWoodUp
+    100094: Line
+    100096: Mouth
+    100098: Mouth 1
+    100100: Mouth 2
+    100102: Mouth 3
+    100104: Mouth 4
+    100106: Mouth 5
+    100108: Outline
+    100110: Outline 1
+    100112: Outline 2
+    100114: Outline 3
+    100116: Outline 4
+    100118: Outline 5
+    100120: Outlines
+    100122: Outlines 1
+    100124: Outlines 2
+    100126: Outlines 3
+    100128: Outlines 4
+    100130: Outlines 5
+    100132: pocket_BottomCenter
+    100134: pocket_BottomLeft
+    100136: pocket_BottomRight
+    100138: pocket_TopCenter
+    100140: pocket_TopLeft
+    100142: pocket_TopRight
+    100144: PointerTrans
+    100146: PointerTrans 1
+    100148: PointerTrans 2
+    100150: PointerTrans 3
+    100152: PointerTrans 4
+    100154: PointerTrans 5
+    100156: PunishmentSprite
+    100158: PunishmentSprite 1
+    100160: PunishmentSprite 2
+    100162: PunishmentSprite 3
+    100164: PunishmentSprite 4
+    100166: PunishmentSprite 5
+    100168: Rail_bottomleft
+    100170: Rail_bottomright
+    100172: Rail_Corner_1
+    100174: Rail_Corner_1 1
+    100176: Rail_Corner_1 2
+    100178: Rail_Corner_1 3
+    100180: Rail_Corner_1 4
+    100182: Rail_Corner_1 5
+    100184: Rail_Corner_2
+    100186: Rail_Corner_2 1
+    100188: Rail_Corner_2 2
+    100190: Rail_Corner_2 3
+    100192: Rail_Corner_2 4
+    100194: Rail_Corner_2 5
+    100196: Rail_left
+    100198: Rail_right
+    100200: Rail_topleft
+    100202: Rail_topright
+    100204: Rails
+    100206: RealPosition
+    100208: RealPosition 1
+    100210: RealPosition 2
+    100212: RealPosition 3
+    100214: RealPosition 4
+    100216: RealPosition 5
+    100218: Recycler
+    100220: Recycler 1
+    100222: Recycler 2
+    100224: Recycler 3
+    100226: Recycler 4
+    100228: Recycler 5
+    100230: RefPoint
+    100232: RefPoint 1
+    100234: RefPoint 2
+    100236: RefPoint 3
+    100238: RefPoint 4
+    100240: RefPoint 5
+    100242: RefPoint 6
+    100244: Renderer
+    100246: RewardSprite
+    100248: RewardSprite 1
+    100250: RewardSprite 2
+    100252: RewardSprite 3
+    100254: RewardSprite 4
+    100256: RewardSprite 5
+    100258: RightDownRail
+    100260: RightRail
+    100262: RightUpRail
+    100264: RightWoodDown
+    100266: RightWoodRail
+    100268: RightWoodUp
+    100270: Side1
+    100272: Side2
+    100274: Side3
+    100276: SideLeft
+    100278: SideRight
+    100280: Star
+    100282: Star 1
+    100284: Star 2
+    100286: Star 3
+    100288: Star 4
+    100290: Star 5
+    100292: StorageRackBottom
+    100294: StorageRackRight
+    100296: StorageRackTop
+    100298: surface
+    100300: Table
+    100302: //RootNode
+    100304: Table_surface
+    100306: TableLeft
+    100308: TableRight
+    100310: TemporarySlot
+    100312: Texture
+    100314: Texture 1
+    100316: Texture 2
+    100318: Texture 3
+    100320: Texture 4
+    100322: Texture 5
+    100324: Wall
+    100326: Wall 1
+    100328: Wall 2
+    100330: Wall 3
+    400000: BallStorageRack
+    400002: BlockOff
+    400004: BlockOff 1
+    400006: BlockOff 2
+    400008: BlockOff 3
+    400010: BlockOff 4
+    400012: BlockOff 5
+    400014: Colliders
+    400016: Corner1
+    400018: Corner2
+    400020: Corner3
+    400022: Corner_centerbottom
+    400024: Corner_centertop
+    400026: Corner_leftbottom
+    400028: Corner_lefttop
+    400030: Corner_rightbottom
+    400032: Corner_righttop
+    400034: Death_standby
+    400036: Death_standby 1
+    400038: Death_standby 2
+    400040: Death_standby 3
+    400042: Death_standby 4
+    400044: Death_standby 5
+    400046: Destination
+    400048: Floor
+    400050: Floor 1
+    400052: Floor 2
+    400054: hl
+    400056: hl 1
+    400058: hl 2
+    400060: hl 3
+    400062: hl 4
+    400064: hl 5
+    400066: HoleBG
+    400068: holebg1
+    400070: holebg2
+    400072: holebg3
+    400074: holebg4
+    400076: holebg5
+    400078: holebg6
+    400080: InitPoint
+    400082: LeftDownRail
+    400084: LeftRail
+    400086: LeftUpRail
+    400088: LeftWoodDown
+    400090: LeftWoodRail
+    400092: LeftWoodUp
+    400094: Line
+    400096: Mouth
+    400098: Mouth 1
+    400100: Mouth 2
+    400102: Mouth 3
+    400104: Mouth 4
+    400106: Mouth 5
+    400108: Outline
+    400110: Outline 1
+    400112: Outline 2
+    400114: Outline 3
+    400116: Outline 4
+    400118: Outline 5
+    400120: Outlines
+    400122: Outlines 1
+    400124: Outlines 2
+    400126: Outlines 3
+    400128: Outlines 4
+    400130: Outlines 5
+    400132: pocket_BottomCenter
+    400134: pocket_BottomLeft
+    400136: pocket_BottomRight
+    400138: pocket_TopCenter
+    400140: pocket_TopLeft
+    400142: pocket_TopRight
+    400144: PointerTrans
+    400146: PointerTrans 1
+    400148: PointerTrans 2
+    400150: PointerTrans 3
+    400152: PointerTrans 4
+    400154: PointerTrans 5
+    400156: PunishmentSprite
+    400158: PunishmentSprite 1
+    400160: PunishmentSprite 2
+    400162: PunishmentSprite 3
+    400164: PunishmentSprite 4
+    400166: PunishmentSprite 5
+    400168: Rail_bottomleft
+    400170: Rail_bottomright
+    400172: Rail_Corner_1
+    400174: Rail_Corner_1 1
+    400176: Rail_Corner_1 2
+    400178: Rail_Corner_1 3
+    400180: Rail_Corner_1 4
+    400182: Rail_Corner_1 5
+    400184: Rail_Corner_2
+    400186: Rail_Corner_2 1
+    400188: Rail_Corner_2 2
+    400190: Rail_Corner_2 3
+    400192: Rail_Corner_2 4
+    400194: Rail_Corner_2 5
+    400196: Rail_left
+    400198: Rail_right
+    400200: Rail_topleft
+    400202: Rail_topright
+    400204: Rails
+    400206: RealPosition
+    400208: RealPosition 1
+    400210: RealPosition 2
+    400212: RealPosition 3
+    400214: RealPosition 4
+    400216: RealPosition 5
+    400218: Recycler
+    400220: Recycler 1
+    400222: Recycler 2
+    400224: Recycler 3
+    400226: Recycler 4
+    400228: Recycler 5
+    400230: RefPoint
+    400232: RefPoint 1
+    400234: RefPoint 2
+    400236: RefPoint 3
+    400238: RefPoint 4
+    400240: RefPoint 5
+    400242: RefPoint 6
+    400244: Renderer
+    400246: RewardSprite
+    400248: RewardSprite 1
+    400250: RewardSprite 2
+    400252: RewardSprite 3
+    400254: RewardSprite 4
+    400256: RewardSprite 5
+    400258: RightDownRail
+    400260: RightRail
+    400262: RightUpRail
+    400264: RightWoodDown
+    400266: RightWoodRail
+    400268: RightWoodUp
+    400270: Side1
+    400272: Side2
+    400274: Side3
+    400276: SideLeft
+    400278: SideRight
+    400280: Star
+    400282: Star 1
+    400284: Star 2
+    400286: Star 3
+    400288: Star 4
+    400290: Star 5
+    400292: StorageRackBottom
+    400294: StorageRackRight
+    400296: StorageRackTop
+    400298: surface
+    400300: Table
+    400302: //RootNode
+    400304: Table_surface
+    400306: TableLeft
+    400308: TableRight
+    400310: TemporarySlot
+    400312: Texture
+    400314: Texture 1
+    400316: Texture 2
+    400318: Texture 3
+    400320: Texture 4
+    400322: Texture 5
+    400324: Wall
+    400326: Wall 1
+    400328: Wall 2
+    400330: Wall 3
+    2100000: No Name
+    2100002: Default-Diffuse
+    2100004: MyMaterial 1
+    2100006: MyMaterial 2
+    2100008: Sprites-Default
+    2100010: Default-Particle
+    2300000: Floor 2
+    2300002: InitPoint
+    2300004: Mouth
+    2300006: Mouth 1
+    2300008: Mouth 2
+    2300010: Mouth 3
+    2300012: Mouth 4
+    2300014: Mouth 5
+    2300016: pocket_BottomCenter
+    2300018: pocket_BottomLeft
+    2300020: pocket_BottomRight
+    2300022: pocket_TopCenter
+    2300024: pocket_TopLeft
+    2300026: pocket_TopRight
+    2300028: PointerTrans
+    2300030: PointerTrans 1
+    2300032: PointerTrans 2
+    2300034: PointerTrans 3
+    2300036: PointerTrans 4
+    2300038: PointerTrans 5
+    2300040: Rail_bottomleft
+    2300042: Rail_bottomright
+    2300044: Rail_Corner_1
+    2300046: Rail_Corner_1 1
+    2300048: Rail_Corner_1 2
+    2300050: Rail_Corner_1 3
+    2300052: Rail_Corner_1 4
+    2300054: Rail_Corner_1 5
+    2300056: Rail_Corner_2
+    2300058: Rail_Corner_2 1
+    2300060: Rail_Corner_2 2
+    2300062: Rail_Corner_2 3
+    2300064: Rail_Corner_2 4
+    2300066: Rail_Corner_2 5
+    2300068: Rail_left
+    2300070: Rail_right
+    2300072: Rail_topleft
+    2300074: Rail_topright
+    2300076: Recycler
+    2300078: Recycler 1
+    2300080: Recycler 2
+    2300082: Recycler 3
+    2300084: Recycler 4
+    2300086: Recycler 5
+    2300088: RefPoint
+    2300090: SideLeft
+    2300092: SideRight
+    2300094: surface
+    2300096: Wall
+    2300098: Wall 1
+    2300100: Wall 2
+    2300102: Wall 3
+    3300000: Floor 2
+    3300002: InitPoint
+    3300004: Mouth
+    3300006: Mouth 1
+    3300008: Mouth 2
+    3300010: Mouth 3
+    3300012: Mouth 4
+    3300014: Mouth 5
+    3300016: pocket_BottomCenter
+    3300018: pocket_BottomLeft
+    3300020: pocket_BottomRight
+    3300022: pocket_TopCenter
+    3300024: pocket_TopLeft
+    3300026: pocket_TopRight
+    3300028: PointerTrans
+    3300030: PointerTrans 1
+    3300032: PointerTrans 2
+    3300034: PointerTrans 3
+    3300036: PointerTrans 4
+    3300038: PointerTrans 5
+    3300040: Rail_bottomleft
+    3300042: Rail_bottomright
+    3300044: Rail_Corner_1
+    3300046: Rail_Corner_1 1
+    3300048: Rail_Corner_1 2
+    3300050: Rail_Corner_1 3
+    3300052: Rail_Corner_1 4
+    3300054: Rail_Corner_1 5
+    3300056: Rail_Corner_2
+    3300058: Rail_Corner_2 1
+    3300060: Rail_Corner_2 2
+    3300062: Rail_Corner_2 3
+    3300064: Rail_Corner_2 4
+    3300066: Rail_Corner_2 5
+    3300068: Rail_left
+    3300070: Rail_right
+    3300072: Rail_topleft
+    3300074: Rail_topright
+    3300076: Recycler
+    3300078: Recycler 1
+    3300080: Recycler 2
+    3300082: Recycler 3
+    3300084: Recycler 4
+    3300086: Recycler 5
+    3300088: RefPoint
+    3300090: SideLeft
+    3300092: SideRight
+    3300094: surface
+    3300096: Wall
+    3300098: Wall 1
+    3300100: Wall 2
+    3300102: Wall 3
+    4300000: surface
+    4300002: Rail_topleft
+    4300004: Rail_topright
+    4300006: Rail_bottomright
+    4300008: Rail_bottomleft
+    4300010: Rail_left
+    4300012: Rail_right
+    4300014: pocket_TopRight
+    4300016: Recycler
+    4300018: PointerTrans
+    4300020: Mouth
+    4300022: pocket_BottomRight
+    4300024: Recycler
+    4300026: PointerTrans
+    4300028: Mouth
+    4300030: pocket_BottomCenter
+    4300032: Recycler
+    4300034: PointerTrans
+    4300036: Mouth
+    4300038: pocket_BottomLeft
+    4300040: Recycler
+    4300042: PointerTrans
+    4300044: Mouth
+    4300046: pocket_TopCenter
+    4300048: Recycler
+    4300050: PointerTrans
+    4300052: Mouth
+    4300054: pocket_TopLeft
+    4300056: Recycler
+    4300058: PointerTrans
+    4300060: Mouth
+    4300062: Rail_Corner_1
+    4300064: Rail_Corner_2
+    4300066: Rail_Corner_1
+    4300068: Rail_Corner_2
+    4300070: Rail_Corner_1
+    4300072: Rail_Corner_2
+    4300074: Rail_Corner_1
+    4300076: Rail_Corner_2
+    4300078: Rail_Corner_1
+    4300080: Rail_Corner_2
+    4300082: Rail_Corner_1
+    4300084: Rail_Corner_2
+    4300086: Floor
+    4300088: Wall
+    4300090: Wall
+    4300092: Wall
+    4300094: Wall
+    4300096: InitPoint
+    4300098: RefPoint
+    4300100: SideLeft
+    4300102: SideRight
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

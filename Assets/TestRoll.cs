@@ -31,7 +31,7 @@ public class TestRoll : MonoBehaviour
 		else
 		{
 			angleSpeed += accRotate;
-			accRotate -= .001f;
+			accRotate -= .002f;
 		}
 		Debug.LogError("angleSpeed : " + angleSpeed);
 		transform.localRotation = Quaternion.AngleAxis(-angleSpeed, axis) * transform.localRotation;
